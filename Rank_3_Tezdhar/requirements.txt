@@ -1,0 +1,13 @@
+numpy==1.15.4
+pandas==0.23.4
+pathlib==1.0.1
+pathlib2==2.3.0
+pytorch-transformers==1.0.0
+scikit-learn==0.20.0
+scipy==1.1.0
+spacy==2.1.6
+tensorboard==1.13.1
+tensorboardX==1.4
+torch==1.1.0
+tqdm==4.31.1
+nltk==3.2.5
