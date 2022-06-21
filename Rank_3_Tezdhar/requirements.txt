@@ -1,4 +1,4 @@
-numpy==1.15.4
+numpy==1.22.0
 pandas==0.23.4
 pathlib==1.0.1
 pathlib2==2.3.0
